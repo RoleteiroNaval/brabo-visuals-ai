@@ -1,9 +1,12 @@
-node_modules
+﻿node_modules
 dist
 dist-ssr
 .env
 .env.local
 .DS_Store
 *.log
+*.zip
+*.html
+!index.html
 .vscode/*
 !.vscode/extensions.json
